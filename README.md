@@ -1,8 +1,11 @@
 AI-Based Predictive and Adaptive Travel Intelligence Platform
-Team Members
+Team Members:
 Member 1 — ID: 2420090013 — B. Rahul Reddy
+
 Member 2 — ID: 2420030147 — A. Ram Charan Reddy
+
 Member 3 — ID: 2420090010 — Ch. Sai Srikar
+
 Supervisor
 
 Supervisor Name: Dr. K. Bhavya Varma
